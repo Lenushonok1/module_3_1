@@ -16,7 +16,6 @@ def is_contains (string, list_to_search):
             break
         else:
             result = False
-            continue
         return result
 
 
